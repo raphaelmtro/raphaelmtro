@@ -6,7 +6,6 @@ Data Lead and Analyst focused on structuring the foundations for data-driven env
 - 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
 - 📊 &nbsp; **Kaggle:** [**cyraxy**](https://kaggle.com/cyraxy)
 - ⚔️ &nbsp; **Codewars:** [**rafaelmtro**](https://www.codewars.com/users/rafaelmtro)
-- 🎓 &nbsp; **Google Skills:** [**rafaelmtro**](https://www.skills.google/public_profiles/0af0a82e-8873-4ce2-b0d9-2b9587904629)
 - 🎵 &nbsp; **Favorite OSTs:** [**playlists**](https://music.apple.com/profile/rafaelmtro).
 
 ---
