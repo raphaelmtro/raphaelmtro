@@ -1,8 +1,8 @@
-**`Data Lead & AI Engineer`**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rafael+👋;Data+Scientist+📊;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
-Data Lead and Analyst focused on structuring the foundations for data-driven environments. Specializes in engineering and deploying intelligent systems to transform data into action.
+I'm a data scientist focused on structuring the foundations for data-driven environments. Specializes in engineering intelligent systems to transform data into action.
 
-- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, AI Engineering.
+- 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, and AI Engineering.
 - 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
 - 📊 &nbsp; **Kaggle:** [**cyraxy**](https://kaggle.com/cyraxy)
 - ⚔️ &nbsp; **Codewars:** [**rafaelmtro**](https://www.codewars.com/users/rafaelmtro)
