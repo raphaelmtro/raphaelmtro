@@ -4,8 +4,6 @@ I'm a data scientist focused on structuring the foundations for data-driven envi
 
 - 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, and AI Engineering.
 - 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/raphaelmtro)
-- 📊 &nbsp; **Kaggle:** [**cyraxy**](https://kaggle.com/cyraxy)
-- ⚔️ &nbsp; **Codewars:** [**raphaelmtro**](https://www.codewars.com/users/raphaelmtro)
 - 🎵 &nbsp; **Favorite OSTs:** [**playlists**](https://music.apple.com/profile/raphaelmtro).
 
 ---
