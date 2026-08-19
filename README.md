@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Rafael+👋;Data+Scientist+📊;Passionate+about+technology+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Raphael+👋;Data+Scientist+📊;Passionate+about+technology+💻)](https://git.io/typing-svg)
 
 I'm a data scientist focused on structuring the foundations for data-driven environments. Specializes in engineering intelligent systems to transform data into action.
 
 - 💬 &nbsp; **Ask me about:** AI, LLMs, Agentic Systems, GenAI, Data Science, and AI Engineering.
-- 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/rafaelmtro)
+- 📓 &nbsp; **Code Snippets:** [**Gists**](https://gist.github.com/raphaelmtro)
 - 📊 &nbsp; **Kaggle:** [**cyraxy**](https://kaggle.com/cyraxy)
-- ⚔️ &nbsp; **Codewars:** [**rafaelmtro**](https://www.codewars.com/users/rafaelmtro)
-- 🎵 &nbsp; **Favorite OSTs:** [**playlists**](https://music.apple.com/profile/rafaelmtro).
+- ⚔️ &nbsp; **Codewars:** [**raphaelmtro**](https://www.codewars.com/users/raphaelmtro)
+- 🎵 &nbsp; **Favorite OSTs:** [**playlists**](https://music.apple.com/profile/raphaelmtro).
 
 ---
 
